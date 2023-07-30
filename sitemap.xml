@@ -2,10 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://devendradesale.github.io/categories/</loc>
+    <loc>https://devendradesale.github.io/tags/deep-learning/</loc>
+    <lastmod>2023-07-27T14:58:45+08:00</lastmod>
   </url><url>
     <loc>https://devendradesale.github.io/</loc>
+    <lastmod>2023-07-27T14:58:45+08:00</lastmod>
+  </url><url>
+    <loc>https://devendradesale.github.io/posts/</loc>
+    <lastmod>2023-07-27T14:58:45+08:00</lastmod>
   </url><url>
     <loc>https://devendradesale.github.io/tags/</loc>
+    <lastmod>2023-07-27T14:58:45+08:00</lastmod>
+  </url><url>
+    <loc>https://devendradesale.github.io/posts/01_first_post/</loc>
+    <lastmod>2023-07-27T14:58:45+08:00</lastmod>
+  </url><url>
+    <loc>https://devendradesale.github.io/about/</loc>
+  </url><url>
+    <loc>https://devendradesale.github.io/archives/</loc>
+  </url><url>
+    <loc>https://devendradesale.github.io/categories/</loc>
+  </url><url>
+    <loc>https://devendradesale.github.io/search/</loc>
   </url>
 </urlset>
